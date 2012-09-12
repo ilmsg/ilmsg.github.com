@@ -42,12 +42,8 @@ Here's a sample "posts list".
 
 ## หมายเหตุ
 
-ที่ย้าย blog มาที่ github เพราะกลัวว่า host ที่ใช้อยู่จะไม่มีเงินจ่ายเค้า (ตอนนี้เงินซื้อข้าวกินแทบจะไม่มีอยู่แล้ว)
-หรือเผื่อผมตายไปหลายๆอย่างที่เคยทำเอาไว้จะได้ไม่สูญเปล่าให้คนข้างหลังได้ใช้ประโยชน์บ้าง github ฟรี 
+ที่ย้าย blog มาที่ github เพราะว่ามันฟรีและกลัวว่าผมตายไป host ที่ใช้อยู่จะไม่มีใครไปจ่ายเงินให้เค้า 
+หลายๆอย่างที่เคยทำเอาไว้จะได้ไม่สูญเปล่าให้คนข้างหลังได้ใช้ประโยชน์บ้าง
 ผมทำโปรเจ็ค เขียนโค้ด ยังไงก็ต้องใช้ github, gist 
 
-<!--
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
--->
 
