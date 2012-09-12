@@ -13,15 +13,15 @@
     <hr>
     <div class="pagination btn-group">
       {% if page.previous %}
-        <a class="btn prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; ��͹˹�ҹ��</a>
+        <a class="btn prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; ก่อนหน้านี้</a>
       {% else %}
-        <a class="btn disabled prev">&larr; ��͹˹�ҹ��</a>
+        <a class="btn disabled prev">&larr; ก่อนหน้านี้</a>
       {% endif %}
-        <a class="btn" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">��ѧ</a>
+        <a class="btn" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">คลังเก็บ</a>
       {% if page.next %}
-        <a class="btn next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">�Ѵ� &rarr;</a>
+        <a class="btn next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">ถัดไป &rarr;</a>
       {% else %}
-        <a class="btn next disabled">�Ѵ� &rarr;</a>
+        <a class="btn next disabled">ถัดไป &rarr;</a>
       {% endif %}
     </div>
     <hr>
@@ -35,7 +35,7 @@
     </section>
     {% if page.category %}
       <section>
-        <h4>��Ǵ����</h4>
+        <h4>ËÁÇ´ËÁÙè</h4>
         <span class="category">
           {{ page.category }}
         </span>
@@ -43,7 +43,7 @@
     {% endif %}     
     {% unless page.tags == empty %}
       <section>
-        <h4>��</h4>
+        <h4>á·ç¡</h4>
         <ul class="tag_box">
           {% assign tags_list = page.tags %}
           {% include JB/tags_list %}
