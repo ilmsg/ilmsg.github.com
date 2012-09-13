@@ -9,8 +9,7 @@ tags: [wordpress, plugin]
 
 สร้าง Option Page ของ WordPress Plugin 
 
-![Option Page ของ WordPress Plugin](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/option-page-wordpress-plugin.jpg)
-
+![Option Page ของ WordPress Plugin](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/option-page-wordpress-plugin.png)
 
 	add_action('admin_menu', 'tlab_option_page');
 	 
