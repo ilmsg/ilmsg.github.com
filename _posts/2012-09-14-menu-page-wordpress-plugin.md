@@ -11,7 +11,7 @@ tags: [wordpress plugin]
 
 ตัวอย่างใน plugin ที่ผู้ใช้ plugin ติดตั้งเสร็จแล้วก็จะต้องไปตั่งค่าของ plugin ให้ทำงานอย่างเหมาะสมกับ blog ของเรา
 
-[!เมนู page ของ plugin](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/menu-page-wordpress-plugin.png)
+![เมนู page ของ plugin](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/menu-page-wordpress-plugin.png)
 
 
 source code ก็มี
@@ -19,6 +19,8 @@ source code ก็มี
 - tlab_mymenu จะเพิ่มเมนูเข้าไปใหม่ โดยใช้ add_menu_page ในชื่อ tlab_mymenu_settings
 - tlab_mymenu_settings ตัวนี้ก็จะสร้าง Page ของเมนูนั้นๆไป
 
+
+##### Source Code
 
 	add_action('admin_menu', 'tlab_mymenu');
 	 
