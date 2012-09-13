@@ -27,13 +27,9 @@ The theme should reference these variables whenever needed.
 
 ## นี้เดือนสุดท้าย อำลาฤดูฝนได้แล้ว 
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+กลางเดือนกันยายนเข้าไปแล้ว ใกล้จะหมดฤดูฝน เด๋วน้ำจะนองให้ลอยกระทงกันอีกแล้ว 
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
+รายการบทความทั้งหมด
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -41,12 +37,13 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
+<!--
 ## หมายเหตุ
 
 ที่ย้าย blog มาที่ github เพราะว่ามันฟรี เด๋วผมตายไป host ที่ใช้อยู่จะไม่มีใครไปจ่ายเงินให้เค้า 
 หลายๆอย่างที่เคยทำเอาไว้จะได้ไม่สูญเปล่าให้คนข้างหลังได้ใช้ประโยชน์บ้าง
-domain เข้าได้ 2 ตัวนี้เลย [ilmsg.com](http://ilmsg.com) --> [ilmsg.github.com](http://ilmsg.github.com)
+domain เข้าได้ 2 ตัวนี้เลย [ilmsg.com](http://ilmsg.com) ==> [ilmsg.github.com](http://ilmsg.github.com)
 
 ไม่ได้ทำมีโปรเจ็คใหญ่โตอะไรเลย เขียนโค้ดเล็กๆน้อยๆ บันทึกเอาไว้ตอนลืมก็กลับมาดู ยังไงก็ต้องใช้ github, gist 
-
+--> 
 
