@@ -2,8 +2,8 @@
 layout: post
 title: "คำสั่ง Heroku Command กับการเพิ่ม,ลบ key ของ config"
 description: ""
-category: 
-tags: []
+category: howto
+tags: [heroku]
 ---
 {% include JB/setup %}
 
