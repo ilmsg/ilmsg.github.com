@@ -56,5 +56,5 @@ Download link or empty string if some errors occurs.
 
 เอา url ที่ได้มาเปิดกับ web browser ก็จะออกมาหน้าแบบนี้ ซึ่งเป็นหน้าดาวน์โหลดแบบปกติของ 4Shared เลย
 
-[getFileDownloadLink](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/app-mediafire-getfiledownloadlink.png)
+![getFileDownloadLink](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/app-mediafire-getfiledownloadlink.png)
 
