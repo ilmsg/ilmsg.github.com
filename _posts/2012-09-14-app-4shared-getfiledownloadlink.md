@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "app mediafire getFileDownloadLink"
+title: "app 4Shared getFileDownloadLink"
 description: ""
 category: tutorial
-tags: [app mediafire, php]
+tags: [app 4Shared, php]
 ---
 {% include JB/setup %}
 

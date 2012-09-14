@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "app mediafire getPreviewLink"
+title: "app 4Shared getPreviewLink"
 description: ""
 category: tutorial
-tags: [app mediafire]
+tags: [app 4Shared]
 ---
 {% include JB/setup %}
 
