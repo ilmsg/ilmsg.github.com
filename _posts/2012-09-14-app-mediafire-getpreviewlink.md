@@ -2,8 +2,8 @@
 layout: post
 title: "app mediafire getPreviewLink"
 description: ""
-category: 
-tags: []
+category: tutorial
+tags: [app mediafire]
 ---
 {% include JB/setup %}
 

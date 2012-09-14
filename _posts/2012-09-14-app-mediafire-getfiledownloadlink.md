@@ -11,7 +11,7 @@ tags: [app mediafire, php]
 
 การหา Lik สำหรับ Download File โดยใช้ FileID เป็นตัวหา
 
-http://www.4shared.com/developer/docs/download/#getFileDownloadLink
+[http://www.4shared.com/developer/docs/download/#getFileDownloadLink](http://www.4shared.com/developer/docs/download/#getFileDownloadLink)
 
 getFileDownloadLink
 
