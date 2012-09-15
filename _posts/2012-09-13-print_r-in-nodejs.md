@@ -25,8 +25,9 @@ tags: []
 
 	var util = require('util');
 	console.log( util.inspect(object) );
-	
 
+รายละเอียดการใช้ util.inspect แบบเต็มๆ
 	
+[http://docs.nodejitsu.com/articles/getting-started/how-to-use-util-inspect](http://docs.nodejitsu.com/articles/getting-started/how-to-use-util-inspect)
 	
 	
