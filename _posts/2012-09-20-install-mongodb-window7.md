@@ -31,9 +31,9 @@ Download ฐานข้อมูล [MongoDB](http://www.mongodb.org)
 
 มันก็จะออกมาแบบนี้ parameter ให้ใช้เพียบเลย
 
-[คำสั่ง mongod -h](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/19-3-2554-20-47-32.png)
+![คำสั่ง mongod -h](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/19-3-2554-20-47-32.png)
 
 อีกหน้าจอนะครับ มันยาวมาก
 
-[คำสั่ง mongod -h (ต่อ)](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/19-3-2554-20-48-09.png)
+![คำสั่ง mongod -h (ต่อ)](https://raw.github.com/ilmsg/ilmsg.github.com/master/_upload/19-3-2554-20-48-09.png)
 
