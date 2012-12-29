@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
-title: "��õ�駤�� routes �ͧ codeigniter ����Ѻ restful"
-description: "��õ�駤�� routes �ͧ codeigniter ����Ѻ restful"
+title: "การตั้งค่า routes ของ codeigniter สำหรับ restful"
+description: "การตั้งค่า routes ของ codeigniter สำหรับ restful"
 category: 
 tags: [codeigniter, restful]
 ---
