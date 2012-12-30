@@ -25,9 +25,8 @@ In `_config.yml` remember to specify your own data:
 The theme should reference these variables whenever needed.
 -->   
 
-## จะหนาวไม่หนาวดีล่ะเนี้ย
-
-สิ้นปีนี้สงสัย count down คนเดียวหน้าคอมอีกล่ะม้างง มีโอกาศได้นึกถึงเรื่องราว 1 ปีที่เราพลาดอะไรไปบ้าง ...
+## last year 2555 (2012)
+i wanna do project
 
 รายการบทความทั้งหมด
 
