@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: หละอ่อนยองหละปูน
-tagline: เมอใดที่ท้องฟ้าเป๋นสีทองฝ่องอำไพ เมอนั้นคนยองจะเป๋นใหญ่ในแผ่นดิน กึงนึง
+title: aaaa
+tagline: bbbbbb
 ---
 {% include JB/setup %}
 
