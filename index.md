@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: หละอ่อนยองหละปูน
+tagline: เมอใดที่ท้องฟ้าเป๋นสีทองฝ่องอำไพ เมอนั้นคนยองจะเป๋นใหญ่ในแผ่นดิน กึงนึง
 ---
 {% include JB/setup %}
 
+<!--
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
@@ -22,15 +23,14 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
-    
-## Sample Posts
+-->
+
+## ส่งท้ายปีเก่า ต้อนรับปีใหม่
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+รายการบทความทั้งหมด
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +38,9 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## หมายเหตุ
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+ที่ย้าย blog มาที่ github เพราะว่ามันฟรี เด๋วผมตายไป host ที่ใช้อยู่จะไม่มีใครไปจ่ายเงินให้เค้า 
+หลายๆอย่างที่เคยทำเอาไว้จะได้ไม่สูญเปล่าให้คนข้างหลังได้ใช้ประโยชน์บ้าง
+domain เข้าได้ 2 ตัวนี้เลย [ilmsg.com](http://ilmsg.com) ==> [ilmsg.github.com](http://ilmsg.github.com)
 
