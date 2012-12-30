@@ -1,36 +1,16 @@
 ---
 layout: page
 title: หละอ่อนยองหละปูน
-tagline: เมอใดที่ท้องฟ้าเป๋นสีทองฝ่องอำไพ เมอนั้นคนยองจะเป๋นใหญ่ในแผ่นดิน กึงนึง
+tagline: เมอใดตีต้องฟ้าเปิ๋นสีทองฝ่องอำไพ เมอนั้นคุนยองจะเปิ๋นใหญ่ในแผ่นดิน กึงนึง
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## สวัสดีปีใหม่ไทยเน้อ
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+ไผตีหลุงเข้ามาก็ขอหื้ออยู่ดีมีสุขเน้อ มีหน้าตี้ก๋านงาน หล่อๆรวยๆมีสะตังนักๆเน้อ ใผยังบ่มีแฟนก็ขอหือป่ะเน้อกูไวๆเน้อ 
+ใผมีแฟนแล้วก็ขอหื้อมีกิ๊กหลายๆคุนเน้อะ (ระวังแฟนยับได้เน้อ อันนี้บ่เกี่ยวกับผ๋มหนา 555+)
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+รายก๋านบทความตึงหมดตึงมวน
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +18,10 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## หมายเหตุ
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+ตี้ย้าย blog มาที่ github ก็เพราะว่ามันฟรี แฮ๋มหน่อยผ๋มต๋ายไป host ที่ใช้อยู่จะบ่อมีใผ่มาจ่ายสะตั้งฮือเปิ้น 
+หลายๆอย่างตี้เคยเย็ยเอาไว้จะได้บ่สูญเปล่าให้คนตางหลังได้เอาไปใช้ประโยชน์ได้พ่อง
+domain เข้าได้ 2 ตั๋วนี้เลยเน้อ [blog.ilmsg.com](http://blog.ilmsg.com) ==> [ilmsg.github.com](http://ilmsg.github.com)
 
-
+ผิดพลาดตางใดก็ขอสู้มาไว้โตยเน้อ บอกกล่าวกั๋นมาเพอแก้ไข้ได้เน้อ
