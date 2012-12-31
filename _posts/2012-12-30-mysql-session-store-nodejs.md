@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "mysql session store node.js"
 description: ""
 category: 
