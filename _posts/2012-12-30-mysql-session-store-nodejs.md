@@ -1,9 +1,9 @@
 ---
-layout: article
+layout: post
 title: "mysql session store node.js"
-description: ""
-category: 
-tags: []
+description: "express กับการใช้งาน session กับ mysql"
+category: howto
+tags: [node.js, session, mysql]
 ---
 {% include JB/setup %}
 
