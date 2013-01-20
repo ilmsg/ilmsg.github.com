@@ -8,7 +8,7 @@ tags: [mysql, java, play framework]
 {% include JB/setup %}
 
 
-อันดับแรก เพิ่ม database driver  ลงไปก่อน product\Build.scala
+อันดับแรก เพิ่ม database driver  ลงไปก่อน project\Build.scala
 
 	val appDependencies = Seq(
     	// Add your project dependencies here,
