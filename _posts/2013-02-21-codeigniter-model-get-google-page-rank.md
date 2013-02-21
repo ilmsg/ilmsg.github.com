@@ -11,9 +11,9 @@ tags: [php, codeigniter, pagerank]
 
 	$this->load->model('googlepr_model');
 	
-การใช้งานโดเมลหลังจากที่โหลดมาแล้ว ตัวอย่างเป็นชื่อเว็บ art2bempire.com นะครับ
+การใช้งานโดเมลหลังจากที่โหลดมาแล้ว ตัวอย่างเป็นชื่อเว็บ ilmsg.com นะครับ
 
-	$url = 'art2bempire.com';
+	$url = 'ilmsg.com';
 	$pagerank = $this->googlepr_model->google_page_rank( $url );
 	echo $pagerank;
 
