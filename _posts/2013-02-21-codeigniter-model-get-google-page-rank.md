@@ -3,7 +3,7 @@ layout: post
 title: "model ของ codeigniter สำหรับวัดค่า pagerank จาก google"
 description: "model ของ codeigniter สำหรับวัดค่า pagerank จาก google"
 category: snippet code
-tags: [php, codeigniter, pagerank, ]
+tags: [php, codeigniter, pagerank]
 ---
 {% include JB/setup %}
 
